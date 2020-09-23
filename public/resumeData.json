@@ -14,7 +14,7 @@
       "zip": "66223"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/open?id=1nEbsyW-0RCfDFs7qYsQ1RpZSr2nJH97q",
+    "resumedownload":"https://docs.google.com/document/d/1MgSQnc2nc7mBeSZ6IAfJuArGxmYkgaxZNglHmaFx65I/edit?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -70,8 +70,12 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"90%"
       },
       {
         "name":"ReactJs",
